@@ -1,0 +1,15 @@
+.form-control {
+  display: inline;
+  width: 250px;
+  margin-top: 50px;
+}
+#image1 {
+  width: 370px;
+  height: 250px;
+}
+.navbar-default .navbar-brand {
+  height: 50px;
+  padding: 15px 15px;
+  font-size: 30px;
+  line-height: 20px;
+}
